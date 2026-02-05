@@ -1,7 +1,7 @@
 import React from "react";
 
-function Hero() {
+function Verify() {
   return <div></div>;
 }
 
-export default Hero;
+export default Verify;
